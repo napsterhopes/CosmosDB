@@ -1,0 +1,37 @@
+{
+  "deviceId_date": "TypeA-999973842-T_12012022",
+  "deviceId": "TypeA-999973842-T",
+  "metadata": {
+    "messageId": "15436a11-d026-45c8-b430-9116fb1391e2",
+    "messageType": "device_readings",
+    "messageVersion": "1.4",
+    "messageTimestamp": "2022-05-16T05:14:14Z",
+    "manufacturerName": "TypeA",
+    "manufacturerDeviceModel": "TYPEA OVEN",
+    "manufacturerSerialNumber": "999973842-T",
+    "manufacturerFamily": null,
+    "customerGuid": "L2019-345135",
+    "customerName": "Top Unit",
+    "customerDeviceClass": "TypeA"
+  },
+  "headers": {
+    "tenant-id": "81b4681d-137b-4738-96a2-08d962858d1c",
+    "edge-device-id": "US-store-05260-01",
+    "edge-module-id": "typeaoven",
+    "source-type": "EdgeModule",
+    "site-id": "US-5260"
+  },
+  "type": "Telemetry",
+  "data": {
+    "ovenTempCurrent": "4.77218534E7",
+    "operationMinutes": "11236",
+    "telemetryTimestamp": "2022-06-06T05:12:58.768192+00:00",
+    "localTimestamp": "2022-06-06T00:12:58-05:00"
+  },
+  "id": "989fb7f2-5665-4f09-9af4-3a3accca9e2d",
+  "_rid": "x6MMALDeYzyEdQgAAAAAAA==",
+  "_self": "dbs/x6MMAA==/colls/x6MMALDeYzw=/docs/x6MMALDeYzyEdQgAAAAAAA==/",
+  "_etag": "\"0e00e88a-0000-0700-0000-629d8ce10000\"",
+  "_attachments": "attachments/",
+  "_ts": 1654492385
+}

@@ -1,0 +1,4 @@
+- [Bulk Executor](https://learn.microsoft.com/en-us/azure/cosmos-db/bulk-executor-overview)
+- [Optimizing read cost](https://learn.microsoft.com/en-us/azure/cosmos-db/nosql/how-to-dotnet-read-item)
+- [Point reads vs queries](https://learn.microsoft.com/en-us/azure/cosmos-db/nosql/how-to-dotnet-read-item)
+- [Unique Key Constraints](https://learn.microsoft.com/en-us/azure/cosmos-db/unique-keys)
